@@ -1,8 +1,8 @@
-### Olá, me chamo Thiago Benevide crio conteúdo de programação e tecnologia
+### Olá, me chamo Thiago Benevide e crio conteúdo de programação e tecnologia
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobenevide&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobenevide&layout=compact&langs_count=20&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobenevide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=18DFF5&icon_color=18DFF5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobenevide&layout=demo&langs_count=7&theme=dracula&title_color=18DFF5&icon_color=18DFF5"/>
 </div>
 
 
