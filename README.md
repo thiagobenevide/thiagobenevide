@@ -7,7 +7,7 @@ Ultimamente tenho focado na área de frontend web e mobile, porém como futuro p
 <div style="display: inline_block">
   <img align="center" alt="thiagoJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thiagoDart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="thiagoPython" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="thiagoPhp" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="thiagoJava" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
 </div>
 
