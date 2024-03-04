@@ -1,6 +1,6 @@
 ## Estou aprendendo programação e criando conteúdo de tecnolgia nas redes sociais
 
-Utimamente tenho focado na área de frontend web e mobile, porém como futuro profissional também aprender backend para torna-se fullstack.
+Ultimamente tenho focado na área de frontend web e mobile, porém como futuro profissional também aprender backend para torna-se fullstack.
 
 ### Principais Linguagens de Programação que venho aprendendo:
 
