@@ -1,27 +1,29 @@
-## Estou aprendendo programação e criando conteúdo de tecnolgia nas redes sociais
+Sendo um desenvolvedor comecei meus estudos com as ferramentas de linguagem de programação Javascript e Python e sigo em constante aprendizado em seus principais frameworks React e Django;
 
-Ultimamente tenho focado na área de frontend web e mobile, porém como futuro profissional também aprender backend para torna-se fullstack.
+Com o objetivo de me tornar um desenvolvedor full Stack venho aperfeiçoando o conhecimento para compreender processos em uma camada mais abaixo na tecnologia estudando pilares na programação pela UFRPE e experiências CLT:
+•	Cálculo
+•	Álgebra Linear
+•	Estatística
+•	Orientação a Objeto
+•	Sistemas Distribuídos e Fundamentos de hardware
+•	Pipeline de Dados
+•	Regras de Negócios
 
-### Principais Linguagens de Programação que venho aprendendo:
+Por meio desses conhecimentos consigo construir soluções para criação de Data Warehouse para visualização de relatórios e reaproveitamento de dados em outras ferramentas como Power BI;
 
-<div style="display: inline_block">
-  <img align="center" alt="thiagoJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="thiagoDart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="thiagoPhp" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="thiagoJava" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-</div>
-
-### Principais Frameworks que estou praticando no momento:
-<div>
-    <img align="center" alt="thiagoFlutter" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="thiagoReact" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-### Redes Sociais onde venho publicando conteúdos:
-<div style="margin-bottom: 10px">
-  <a href="https://www.youtube.com/channel/UCDiRmN6TUOy__slN7_usZtQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/thiagobenevide" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagobenevide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Com objetivos que visão a captura e utilização de dados em aplicações web com o propósito de aperfeiçoar a experiência do usuário com a entrega de conteúdo de acordo com a plataforma.
 
 
+As a developer, I began my journey with JavaScript and Python, delving deep into their popular frameworks React and Django.
+
+Aiming to become a full-stack developer, I've expanded my skill set to encompass lower-level concepts, including:
+·        Calculus
+·        Linear Algebra
+·        Statistics
+·        Object-Oriented Programming
+·        Distributed Systems and Hardware Fundamentals
+·        Data Pipelines
+·        Business Rules
+Through this knowledge, I can effectively construct Data Warehouses for insightful reporting and data integration with tools like Power BI.
+
+I'm particularly interested in harnessing data to enhance web applications and deliver tailored content, thereby elevating the user experience.
